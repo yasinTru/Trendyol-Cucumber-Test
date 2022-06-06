@@ -1,2 +1,2 @@
 # Trendyol-Cucumber-Test
-A simple Java BDD test suite with using Cucumber
+Simple Java BDD test suite with Cucumber
